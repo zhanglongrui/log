@@ -1,4 +1,8 @@
 what are you doing ?
 i am studing now.
 what do youdododod
+<<<<<<< HEAD
 lalalalala
+=======
+mememeememememeem
+>>>>>>> featurel
